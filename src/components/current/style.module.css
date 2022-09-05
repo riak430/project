@@ -1,0 +1,33 @@
+.www {
+  /* background: rgb(61, 47, 151); */
+  display: flex;
+  flex-wrap: wrap;
+  width: 30%;
+  height: 650px;
+  overflow-y: scroll;
+}
+.ww {
+  background: rgb(219, 228, 227);
+  /* border-radius: 10px; */
+  width: 100%;
+  display: flex;
+  color: white;
+  text-transform: uppercase;
+  justify-content: center;
+  align-items: center;
+}
+.wwww {
+  width: 100%;
+  margin-top: 20px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(240, 96, 240);
+}
+.wwww button {
+  background: none;
+  border: none;
+  color: aliceblue;
+  padding: 10px;
+}
